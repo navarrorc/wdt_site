@@ -1,3 +1,3 @@
 
 # Custom Excludes
-exclude: [gulpfile.js, package.json, node_modules, src, scripts]
+exclude: ["Gemfile", "Gemfile.lock", "gulpfile.js", "package.json", "node_modules/", "src/", "script/"]
